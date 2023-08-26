@@ -1,0 +1,14 @@
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\01. Groups of Equal Sum\bin\Debug\net6.0\01. Groups of Equal Sum.exe
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\01. Groups of Equal Sum\bin\Debug\net6.0\01. Groups of Equal Sum.deps.json
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\01. Groups of Equal Sum\bin\Debug\net6.0\01. Groups of Equal Sum.runtimeconfig.json
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\01. Groups of Equal Sum\bin\Debug\net6.0\01. Groups of Equal Sum.dll
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\01. Groups of Equal Sum\bin\Debug\net6.0\01. Groups of Equal Sum.pdb
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\01. Groups of Equal Sum\obj\Debug\net6.0\01. Groups of Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\01. Groups of Equal Sum\obj\Debug\net6.0\01. Groups of Equal Sum.AssemblyInfoInputs.cache
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\01. Groups of Equal Sum\obj\Debug\net6.0\01. Groups of Equal Sum.AssemblyInfo.cs
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\01. Groups of Equal Sum\obj\Debug\net6.0\01. Groups of Equal Sum.csproj.CoreCompileInputs.cache
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\01. Groups of Equal Sum\obj\Debug\net6.0\01. Groups of Equal Sum.dll
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\01. Groups of Equal Sum\obj\Debug\net6.0\refint\01. Groups of Equal Sum.dll
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\01. Groups of Equal Sum\obj\Debug\net6.0\01. Groups of Equal Sum.pdb
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\01. Groups of Equal Sum\obj\Debug\net6.0\01. Groups of Equal Sum.genruntimeconfig.cache
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\01. Groups of Equal Sum\obj\Debug\net6.0\ref\01. Groups of Equal Sum.dll
