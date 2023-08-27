@@ -9,49 +9,53 @@ namespace _02._Draw_a_House
               {
                      int n = int.Parse(Console.ReadLine());
 
-                     string result = "";
-                     //roof
+                     StringBuilder sb = new();
+
+
+                     // roof
+                     sb.AppendLine(CreatitingRoof(n, 2 * n - 1));
+                     sb.AppendLine(CreatitingBlock(n, 2 * n - 1));
+
+                     Console.WriteLine(sb.ToString());
+              }
+
+              static string CreatitingRoof(int rows, int cols)
+              {
+                     StringBuilder sb = new();
+
+                     //making each floor
                      int count = 0;
-                     for (int i = 0; i < n - 1; i++)
+                     for (int i = 0; i < rows - 1; i++)
                      {
-                            result += new string('.', n - count - 1);
-                            if (count == 0)
+                            sb.Append(new string('.', rows - count - 1));
+                            sb.Append("*");
+                            if (count != 0)
                             {
-                                   result += "*";
+                                   sb.Append(new string(' ', 2*count-1));
+                                   sb.Append("*");
                             }
-                            else
-                            {
-                                   result += "*";
-                                   result += new string(' ', 2 * count - 1);
-                                   result += "*";
-                            }
-                            result += new string('.', n - count - 1);
-                            result += "\n";
+                            sb.AppendLine(new string('.', rows - count - 1));
                             count++;
                      }
-                     for (int i = 0; i < n; i++)
-                     {
-                            result += "*";
-                            if (i != n - 1)
-                            {
-                                   result += " ";
-                            }
-                     }
-                     result += "\n";
-                     //block
-                     int cols = 2 * n - 1;
-                     result += "+" + new string('-', cols - 2) + '+';
-                     result += "\n";
+                     char[] arr = new string('*', rows).ToCharArray();
+                     sb.Append(string.Join(" ", arr));
+
+                     return sb.ToString();
+              }
+              static string CreatitingBlock(int rows, int cols)
+              {
+                     StringBuilder sb = new();
+
+                     sb.AppendLine("+" + new string('-', cols - 2) + '+');
+
                      //making each floor
-                     for (int i = 0; i < n - 2; i++)
+                     for (int i = 0; i < rows-2; i++)
                      {
-                            result += '|' + new string(' ', cols - 2) + '|';
-                            result += "\n";
-
+                            sb.AppendLine('|' + new string(' ', cols-2) +'|');
                      }
-                     result += "+" + new string('-', cols - 2) + '+';
+                     sb.AppendLine("+" + new string('-', cols - 2) + '+');
 
-                     Console.WriteLine(result);
+                     return sb.ToString();
               }
        }
 }
