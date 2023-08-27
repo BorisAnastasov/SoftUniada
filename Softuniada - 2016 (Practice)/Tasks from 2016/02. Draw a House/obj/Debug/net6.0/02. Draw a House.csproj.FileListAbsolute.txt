@@ -1,0 +1,14 @@
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\02. Draw a House\bin\Debug\net6.0\02. Draw a House.exe
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\02. Draw a House\bin\Debug\net6.0\02. Draw a House.deps.json
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\02. Draw a House\bin\Debug\net6.0\02. Draw a House.runtimeconfig.json
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\02. Draw a House\bin\Debug\net6.0\02. Draw a House.dll
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\02. Draw a House\bin\Debug\net6.0\02. Draw a House.pdb
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\02. Draw a House\obj\Debug\net6.0\02. Draw a House.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\02. Draw a House\obj\Debug\net6.0\02. Draw a House.AssemblyInfoInputs.cache
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\02. Draw a House\obj\Debug\net6.0\02. Draw a House.AssemblyInfo.cs
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\02. Draw a House\obj\Debug\net6.0\02. Draw a House.csproj.CoreCompileInputs.cache
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\02. Draw a House\obj\Debug\net6.0\02. Draw a House.dll
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\02. Draw a House\obj\Debug\net6.0\refint\02. Draw a House.dll
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\02. Draw a House\obj\Debug\net6.0\02. Draw a House.pdb
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\02. Draw a House\obj\Debug\net6.0\02. Draw a House.genruntimeconfig.cache
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\02. Draw a House\obj\Debug\net6.0\ref\02. Draw a House.dll
