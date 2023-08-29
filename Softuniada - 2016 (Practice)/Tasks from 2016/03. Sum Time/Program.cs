@@ -29,7 +29,7 @@ namespace _03._Sum_Time
                      int hours = Regex.Match(m.Groups["days"], patternDays)
                      minutes += hours * 60;
 
-                     //minutes
+                     //minutes  
                      minutes += int.Parse(m.Groups["minutes"]);
               }
        }
