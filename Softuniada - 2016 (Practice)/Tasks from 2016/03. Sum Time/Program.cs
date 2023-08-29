@@ -22,10 +22,15 @@ namespace _03._Sum_Time
                      int minutes = 0;
                      if (m.Groups["days"].Success)
                      {
-                            int days = Regex.Match(m.Groups["days"],
-                            minutes +=
+                            int days = Regex.Match(m.Groups["days"], patternDays)
+                            minutes += 
                      }
+                     //hours
+                     int hours = Regex.Match(m.Groups["days"], patternDays)
+                     minutes += hours * 60;
 
+                     //minutes
+                     minutes += int.Parse(m.Groups["minutes"]);
               }
        }
 }
