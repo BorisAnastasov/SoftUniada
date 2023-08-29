@@ -12,12 +12,20 @@ namespace _03._Sum_Time
 
               }
 
-              public static void ParsingToTime(string input)
+              public static int ParsingToMinutes(string input)
               {
                      string pattern = @"(?<days>\d*):?:?(?<hours>\d*):(?<minutes>\d*)";
+                     string patternDays = @"^()";
+                     string patternHours = @"(?<days>\d*):?:?(?<hours>\d*):(?<minutes>\d*)";
+                     string patternMinutes = @"(?<days>\d*):?:?(?<hours>\d*):(?<minutes>\d*)";
                      Match m = Regex.Match(input, pattern);
+                     int minutes = 0;
+                     if (m.Groups["days"].Success)
+                     {
+                            int days = Regex.Match(m.Groups["days"],
+                            minutes +=
+                     }
 
-                     if (input) { }
               }
        }
 }
