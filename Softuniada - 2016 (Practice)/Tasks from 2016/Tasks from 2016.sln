@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Groups of Equal Sum", "01. Groups of Equal Sum\01. Groups of Equal Sum.csproj", "{FC74743D-E64E-4620-BF3D-5ABAF91E08C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Draw a House", "02. Draw a House\02. Draw a House.csproj", "{F4C7BDB8-8B2F-4EDF-B5FF-47655B61CF44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Draw a House", "02. Draw a House\02. Draw a House.csproj", "{F4C7BDB8-8B2F-4EDF-B5FF-47655B61CF44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Sum Time", "03. Sum Time\03. Sum Time.csproj", "{F4A44F4A-6F43-4EEF-AA72-341CDF8487D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F4C7BDB8-8B2F-4EDF-B5FF-47655B61CF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4C7BDB8-8B2F-4EDF-B5FF-47655B61CF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4C7BDB8-8B2F-4EDF-B5FF-47655B61CF44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A44F4A-6F43-4EEF-AA72-341CDF8487D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A44F4A-6F43-4EEF-AA72-341CDF8487D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A44F4A-6F43-4EEF-AA72-341CDF8487D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A44F4A-6F43-4EEF-AA72-341CDF8487D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
