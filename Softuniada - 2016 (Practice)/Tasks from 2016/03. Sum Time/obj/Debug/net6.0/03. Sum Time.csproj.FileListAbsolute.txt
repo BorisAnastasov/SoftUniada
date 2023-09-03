@@ -2,3 +2,13 @@ D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Task
 D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\03. Sum Time\obj\Debug\net6.0\03. Sum Time.AssemblyInfoInputs.cache
 D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\03. Sum Time\obj\Debug\net6.0\03. Sum Time.AssemblyInfo.cs
 D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\03. Sum Time\obj\Debug\net6.0\03. Sum Time.csproj.CoreCompileInputs.cache
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\03. Sum Time\bin\Debug\net6.0\03. Sum Time.exe
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\03. Sum Time\bin\Debug\net6.0\03. Sum Time.deps.json
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\03. Sum Time\bin\Debug\net6.0\03. Sum Time.runtimeconfig.json
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\03. Sum Time\bin\Debug\net6.0\03. Sum Time.dll
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\03. Sum Time\bin\Debug\net6.0\03. Sum Time.pdb
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\03. Sum Time\obj\Debug\net6.0\03. Sum Time.dll
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\03. Sum Time\obj\Debug\net6.0\refint\03. Sum Time.dll
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\03. Sum Time\obj\Debug\net6.0\03. Sum Time.pdb
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\03. Sum Time\obj\Debug\net6.0\03. Sum Time.genruntimeconfig.cache
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\03. Sum Time\obj\Debug\net6.0\ref\03. Sum Time.dll
