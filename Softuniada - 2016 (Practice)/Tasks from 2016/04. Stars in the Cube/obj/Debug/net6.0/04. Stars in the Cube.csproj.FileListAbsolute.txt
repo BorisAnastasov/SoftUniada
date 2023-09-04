@@ -2,3 +2,13 @@ D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Task
 D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\obj\Debug\net6.0\04. Stars in the Cube.AssemblyInfoInputs.cache
 D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\obj\Debug\net6.0\04. Stars in the Cube.AssemblyInfo.cs
 D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\obj\Debug\net6.0\04. Stars in the Cube.csproj.CoreCompileInputs.cache
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\bin\Debug\net6.0\04. Stars in the Cube.exe
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\bin\Debug\net6.0\04. Stars in the Cube.deps.json
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\bin\Debug\net6.0\04. Stars in the Cube.runtimeconfig.json
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\bin\Debug\net6.0\04. Stars in the Cube.dll
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\bin\Debug\net6.0\04. Stars in the Cube.pdb
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\obj\Debug\net6.0\04. Stars in the Cube.dll
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\obj\Debug\net6.0\refint\04. Stars in the Cube.dll
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\obj\Debug\net6.0\04. Stars in the Cube.pdb
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\obj\Debug\net6.0\04. Stars in the Cube.genruntimeconfig.cache
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\obj\Debug\net6.0\ref\04. Stars in the Cube.dll

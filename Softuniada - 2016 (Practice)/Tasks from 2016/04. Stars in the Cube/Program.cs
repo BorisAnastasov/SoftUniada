@@ -1,6 +1,7 @@
-﻿using System.Reflection.Emit;
+﻿using System.Linq;
+using System.Reflection.Emit;
 using System.Text;
-
+using System;
 namespace _04._Stars_in_the_Cube
 {
        internal class Program
@@ -16,7 +17,7 @@ namespace _04._Stars_in_the_Cube
 
                      char[,,] matrix = new char[n, n, n];
 
-                     var dict = new Dictionary<char, int>();
+                     Dictionary<char, int> dict = new Dictionary<char, int>();
 
                      for (int i = 0; i < n; i++)
                      {
@@ -40,20 +41,28 @@ namespace _04._Stars_in_the_Cube
                                           char currVal = matrix[row, col, lay];
                                           if (CheckingCell(matrix, row, col, lay))
                                           {
-                                                 dict[currVal]++;
+                                                 if (dict.ContainsKey(currVal))
+                                                 {
+                                                        dict[currVal]++;
+
+                                                 }
+                                                 else
+                                                 {
+                                                        dict.Add(currVal, 1);
+                                                 }
                                           }
                                    }
                             }
                      }
-                     StringBuilder sb = new();
+                     StringBuilder sb = new StringBuilder();
                      int sum = 0;
-                     foreach (char key in dict.Keys)
+                     foreach (char key in dict.Keys.OrderBy(x => x))
                      {
                             sb.AppendLine($"{key} -> {dict[key]}");
                             sum += dict[key];
                      }
                      Console.WriteLine(sum);
-                     Console.WriteLine(sb.ToString();
+                     Console.WriteLine(sb.ToString());
               }
 
 
