@@ -1,0 +1,4 @@
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\obj\Debug\net6.0\04. Stars in the Cube.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\obj\Debug\net6.0\04. Stars in the Cube.AssemblyInfoInputs.cache
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\obj\Debug\net6.0\04. Stars in the Cube.AssemblyInfo.cs
+D:\Programing Files\C#\GitHub Repos\SiftUniada\Softuniada - 2016 (Practice)\Tasks from 2016\04. Stars in the Cube\obj\Debug\net6.0\04. Stars in the Cube.csproj.CoreCompileInputs.cache
